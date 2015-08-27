@@ -8,5 +8,5 @@ echo('</b>');
 echo('</center>');
 echo('</br>');
 echo('</br>');
-echo phpinfo();
+
 ?>
