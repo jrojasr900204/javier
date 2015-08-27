@@ -2,7 +2,7 @@
 echo('<center>');
 echo('<b>');
 echo('<i>');
-echo('Te quiero  mucho  mucho  boba...no  cojas lucha con  el trabajo que eso  es mierda... ya aparecera algo');
+echo('Soy  yo  mi  vida, estoy  publicando el  sitio  de nosotros en  la nueve');
 echo('</i>');
 echo('</b>');
 echo('</center>');
